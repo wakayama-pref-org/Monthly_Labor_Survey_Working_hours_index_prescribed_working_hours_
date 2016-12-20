@@ -1,4 +1,4 @@
-# Monthly_Labor_Survey_Working_hours_index_prescribed_working_hours_
+# monthly_labor_survey_working_hours_index_prescribed_working_hours_
 【毎月勤労統計調査(和歌山県)_産業別時系列表（労働時間指数（所定内労働時間）及び対前年比)です。】
 ◆毎月勤労統計調査とは
 〇調査の目的
